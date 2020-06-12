@@ -1,0 +1,23 @@
+{
+  "name": "processexit",
+  "author": "AlbanMinassian",
+  "description": "basic process.exit wrapper",
+  "license": "MIT",
+  "private": false,
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AlbanMinassian/processexit"
+},
+  "keywords" : [ "process", "exit"],
+  "bugs" : {
+    "url" : "https://github.com/AlbanMinassian/processexit/issues"
+  },
+  "engines": {
+    "node": "*"
+  }
+}
